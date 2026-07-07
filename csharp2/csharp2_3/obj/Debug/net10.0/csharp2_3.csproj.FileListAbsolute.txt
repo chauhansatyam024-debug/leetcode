@@ -1,0 +1,14 @@
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.AssemblyInfoInputs.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.AssemblyInfo.cs
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.csproj.CoreCompileInputs.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/bin/Debug/net10.0/csharp2_3
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/bin/Debug/net10.0/csharp2_3.deps.json
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/bin/Debug/net10.0/csharp2_3.runtimeconfig.json
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/bin/Debug/net10.0/csharp2_3.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/bin/Debug/net10.0/csharp2_3.pdb
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/refint/csharp2_3.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.pdb
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/csharp2_3.genruntimeconfig.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_3/obj/Debug/net10.0/ref/csharp2_3.dll
