@@ -201,7 +201,9 @@
 				20,
 				22,
 				24,
-				28
+				28,
+				30,
+				31
 			]
 		}
 	],
@@ -374,8 +376,18 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "cmake-build-debug/bin.cpp",
+			"path" : "practice/bin.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3658/leet_3658.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3658/leet_3658_second.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

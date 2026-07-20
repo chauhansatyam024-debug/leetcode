@@ -592,29 +592,29 @@ leetcode_dsa_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.s
 .PHONY : 876/leet_876.cpp.s
 
-bin.o: bin.cpp.o
-.PHONY : bin.o
+practice/bin.o: practice/bin.cpp.o
+.PHONY : practice/bin.o
 
 # target to build an object file
-bin.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o
-.PHONY : bin.cpp.o
+practice/bin.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o
+.PHONY : practice/bin.cpp.o
 
-bin.i: bin.cpp.i
-.PHONY : bin.i
+practice/bin.i: practice/bin.cpp.i
+.PHONY : practice/bin.i
 
 # target to preprocess a source file
-bin.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.i
-.PHONY : bin.cpp.i
+practice/bin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.i
+.PHONY : practice/bin.cpp.i
 
-bin.s: bin.cpp.s
-.PHONY : bin.s
+practice/bin.s: practice/bin.cpp.s
+.PHONY : practice/bin.s
 
 # target to generate assembly for a file
-bin.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.s
-.PHONY : bin.cpp.s
+practice/bin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.s
+.PHONY : practice/bin.cpp.s
 
 # Help Target
 help:
@@ -683,9 +683,9 @@ help:
 	@echo "... 876/leet_876.o"
 	@echo "... 876/leet_876.i"
 	@echo "... 876/leet_876.s"
-	@echo "... bin.o"
-	@echo "... bin.i"
-	@echo "... bin.s"
+	@echo "... practice/bin.o"
+	@echo "... practice/bin.i"
+	@echo "... practice/bin.s"
 .PHONY : help
 
 

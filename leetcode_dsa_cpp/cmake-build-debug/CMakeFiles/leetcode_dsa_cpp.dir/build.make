@@ -338,19 +338,19 @@ CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/satyamchauhan/leetcode/leetcode_dsa_cpp/876/leet_876.cpp -o CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.s
 
-CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o: CMakeFiles/leetcode_dsa_cpp.dir/flags.make
-CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o: bin.cpp
-CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o: CMakeFiles/leetcode_dsa_cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o -MF CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o.d -o CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o -c /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/bin.cpp
+CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o: CMakeFiles/leetcode_dsa_cpp.dir/flags.make
+CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o: /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp
+CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o: CMakeFiles/leetcode_dsa_cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o -MF CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o.d -o CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o -c /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp
 
-CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/bin.cpp > CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.i
+CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp > CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.i
 
-CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/bin.cpp -o CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.s
+CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp -o CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.s
 
 # Object files for target leetcode_dsa_cpp
 leetcode_dsa_cpp_OBJECTS = \
@@ -373,7 +373,7 @@ leetcode_dsa_cpp_OBJECTS = \
 "CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_first.cpp.o" \
 "CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_second.cpp.o" \
 "CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.o" \
-"CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o"
+"CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o"
 
 # External object files for target leetcode_dsa_cpp
 leetcode_dsa_cpp_EXTERNAL_OBJECTS =
@@ -397,7 +397,7 @@ leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/3756_2553/leet_2553.cpp.o
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_first.cpp.o
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_second.cpp.o
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/876/leet_876.cpp.o
-leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/bin.cpp.o
+leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/build.make
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/compiler_depend.ts
 leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/link.txt
