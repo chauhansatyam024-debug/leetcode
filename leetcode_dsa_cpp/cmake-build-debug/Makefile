@@ -616,6 +616,30 @@ practice/bin.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.s
 .PHONY : practice/bin.cpp.s
 
+practice/bin_real_2.o: practice/bin_real_2.cpp.o
+.PHONY : practice/bin_real_2.o
+
+# target to build an object file
+practice/bin_real_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.o
+.PHONY : practice/bin_real_2.cpp.o
+
+practice/bin_real_2.i: practice/bin_real_2.cpp.i
+.PHONY : practice/bin_real_2.i
+
+# target to preprocess a source file
+practice/bin_real_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.i
+.PHONY : practice/bin_real_2.cpp.i
+
+practice/bin_real_2.s: practice/bin_real_2.cpp.s
+.PHONY : practice/bin_real_2.s
+
+# target to generate assembly for a file
+practice/bin_real_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.s
+.PHONY : practice/bin_real_2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -686,6 +710,9 @@ help:
 	@echo "... practice/bin.o"
 	@echo "... practice/bin.i"
 	@echo "... practice/bin.s"
+	@echo "... practice/bin_real_2.o"
+	@echo "... practice/bin_real_2.i"
+	@echo "... practice/bin_real_2.s"
 .PHONY : help
 
 

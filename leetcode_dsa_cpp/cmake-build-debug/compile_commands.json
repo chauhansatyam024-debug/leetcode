@@ -118,5 +118,11 @@
   "command": "/usr/bin/c++  -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/1331 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/237 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3120 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3300 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3754 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3756_2553 -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o -c /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp",
   "file": "/home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin.cpp",
   "output": "CMakeFiles/leetcode_dsa_cpp.dir/practice/bin.cpp.o"
+},
+{
+  "directory": "/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug",
+  "command": "/usr/bin/c++  -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/1331 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/237 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3120 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3300 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3754 -I/home/satyamchauhan/leetcode/leetcode_dsa_cpp/3756_2553 -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.o -c /home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin_real_2.cpp",
+  "file": "/home/satyamchauhan/leetcode/leetcode_dsa_cpp/practice/bin_real_2.cpp",
+  "output": "CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.o"
 }
 ]

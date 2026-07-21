@@ -85,12 +85,12 @@ clean: CMakeFiles/leetcode_dsa_cpp.dir/clean
 CMakeFiles/leetcode_dsa_cpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target leetcode_dsa_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 "Built target leetcode_dsa_cpp"
 .PHONY : CMakeFiles/leetcode_dsa_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/leetcode_dsa_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles 21
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles 22
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/leetcode_dsa_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/leetcode_dsa_cpp.dir/rule
@@ -102,7 +102,7 @@ leetcode_dsa_cpp: CMakeFiles/leetcode_dsa_cpp.dir/rule
 # codegen rule for target.
 CMakeFiles/leetcode_dsa_cpp.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Finished codegen for target leetcode_dsa_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/satyamchauhan/leetcode/leetcode_dsa_cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 "Finished codegen for target leetcode_dsa_cpp"
 .PHONY : CMakeFiles/leetcode_dsa_cpp.dir/codegen
 
 # clean rule for target.

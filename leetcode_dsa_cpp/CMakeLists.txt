@@ -42,4 +42,6 @@ add_executable(leetcode_dsa_cpp
         26/leet_26.h
         practice/bin.cpp
         3658/leet_3658.h
-        3658/leet_3658_second.h)
+        3658/leet_3658_second.h
+        practice/bin_real_2.cpp
+        35/leet_35_second.h)
