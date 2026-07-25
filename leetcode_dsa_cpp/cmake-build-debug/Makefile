@@ -640,6 +640,30 @@ practice/bin_real_2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/bin_real_2.cpp.s
 .PHONY : practice/bin_real_2.cpp.s
 
+practice/second_larges.o: practice/second_larges.cpp.o
+.PHONY : practice/second_larges.o
+
+# target to build an object file
+practice/second_larges.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/second_larges.cpp.o
+.PHONY : practice/second_larges.cpp.o
+
+practice/second_larges.i: practice/second_larges.cpp.i
+.PHONY : practice/second_larges.i
+
+# target to preprocess a source file
+practice/second_larges.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/second_larges.cpp.i
+.PHONY : practice/second_larges.cpp.i
+
+practice/second_larges.s: practice/second_larges.cpp.s
+.PHONY : practice/second_larges.s
+
+# target to generate assembly for a file
+practice/second_larges.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/practice/second_larges.cpp.s
+.PHONY : practice/second_larges.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -713,6 +737,9 @@ help:
 	@echo "... practice/bin_real_2.o"
 	@echo "... practice/bin_real_2.i"
 	@echo "... practice/bin_real_2.s"
+	@echo "... practice/second_larges.o"
+	@echo "... practice/second_larges.i"
+	@echo "... practice/second_larges.s"
 .PHONY : help
 
 
