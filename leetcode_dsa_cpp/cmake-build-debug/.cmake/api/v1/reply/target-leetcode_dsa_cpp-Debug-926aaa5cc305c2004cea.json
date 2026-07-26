@@ -212,7 +212,9 @@
 				34,
 				35,
 				36,
-				38
+				38,
+				39,
+				40
 			]
 		}
 	],
@@ -433,6 +435,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "70/leet_70.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "628/leet_628_fail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "628/leet_628_second.h",
 			"sourceGroupIndex" : 1
 		}
 	],

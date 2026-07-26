@@ -49,4 +49,6 @@ add_executable(leetcode_dsa_cpp
         66/leet_66.h
         66/leet_66_second.h
         practice/second_larges.cpp
-        70/leet_70.h)
+        70/leet_70.h
+        628/leet_628_fail.h
+        628/leet_628_second.h)
