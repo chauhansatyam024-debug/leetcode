@@ -136,6 +136,30 @@ leetcode_dsa_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/build
 .PHONY : leetcode_dsa_cpp/fast
 
+121/leet_121.o: 121/leet_121.cpp.o
+.PHONY : 121/leet_121.o
+
+# target to build an object file
+121/leet_121.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/121/leet_121.cpp.o
+.PHONY : 121/leet_121.cpp.o
+
+121/leet_121.i: 121/leet_121.cpp.i
+.PHONY : 121/leet_121.i
+
+# target to preprocess a source file
+121/leet_121.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/121/leet_121.cpp.i
+.PHONY : 121/leet_121.cpp.i
+
+121/leet_121.s: 121/leet_121.cpp.s
+.PHONY : 121/leet_121.s
+
+# target to generate assembly for a file
+121/leet_121.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/121/leet_121.cpp.s
+.PHONY : 121/leet_121.cpp.s
+
 1331/leet_1331.o: 1331/leet_1331.cpp.o
 .PHONY : 1331/leet_1331.o
 
@@ -674,6 +698,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... leetcode_dsa_cpp"
+	@echo "... 121/leet_121.o"
+	@echo "... 121/leet_121.i"
+	@echo "... 121/leet_121.s"
 	@echo "... 1331/leet_1331.o"
 	@echo "... 1331/leet_1331.i"
 	@echo "... 1331/leet_1331.s"

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/leetcode_dsa_cpp.dir/link.d"
+  "CMakeFiles/leetcode_dsa_cpp.dir/121/leet_121.cpp.o"
+  "CMakeFiles/leetcode_dsa_cpp.dir/121/leet_121.cpp.o.d"
   "CMakeFiles/leetcode_dsa_cpp.dir/1331/leet_1331.cpp.o"
   "CMakeFiles/leetcode_dsa_cpp.dir/1331/leet_1331.cpp.o.d"
   "CMakeFiles/leetcode_dsa_cpp.dir/1331/leet_1331_main.cpp.o"
