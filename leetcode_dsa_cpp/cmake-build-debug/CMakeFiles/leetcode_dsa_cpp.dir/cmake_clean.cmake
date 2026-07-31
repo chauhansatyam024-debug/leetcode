@@ -34,6 +34,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_dsa_cpp.dir/3756_2553/leer_3756_1st.cpp.o.d"
   "CMakeFiles/leetcode_dsa_cpp.dir/3756_2553/leet_2553.cpp.o"
   "CMakeFiles/leetcode_dsa_cpp.dir/3756_2553/leet_2553.cpp.o.d"
+  "CMakeFiles/leetcode_dsa_cpp.dir/69/leet.cpp.o"
+  "CMakeFiles/leetcode_dsa_cpp.dir/69/leet.cpp.o.d"
   "CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_first.cpp.o"
   "CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_first.cpp.o.d"
   "CMakeFiles/leetcode_dsa_cpp.dir/8/leet_8_second.cpp.o"

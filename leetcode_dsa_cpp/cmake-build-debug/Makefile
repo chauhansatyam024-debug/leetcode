@@ -544,6 +544,30 @@ leetcode_dsa_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/3756_2553/leet_2553.cpp.s
 .PHONY : 3756_2553/leet_2553.cpp.s
 
+69/leet.o: 69/leet.cpp.o
+.PHONY : 69/leet.o
+
+# target to build an object file
+69/leet.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/69/leet.cpp.o
+.PHONY : 69/leet.cpp.o
+
+69/leet.i: 69/leet.cpp.i
+.PHONY : 69/leet.i
+
+# target to preprocess a source file
+69/leet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/69/leet.cpp.i
+.PHONY : 69/leet.cpp.i
+
+69/leet.s: 69/leet.cpp.s
+.PHONY : 69/leet.s
+
+# target to generate assembly for a file
+69/leet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_dsa_cpp.dir/build.make CMakeFiles/leetcode_dsa_cpp.dir/69/leet.cpp.s
+.PHONY : 69/leet.cpp.s
+
 8/leet_8_first.o: 8/leet_8_first.cpp.o
 .PHONY : 8/leet_8_first.o
 
@@ -749,6 +773,9 @@ help:
 	@echo "... 3756_2553/leet_2553.o"
 	@echo "... 3756_2553/leet_2553.i"
 	@echo "... 3756_2553/leet_2553.s"
+	@echo "... 69/leet.o"
+	@echo "... 69/leet.i"
+	@echo "... 69/leet.s"
 	@echo "... 8/leet_8_first.o"
 	@echo "... 8/leet_8_first.i"
 	@echo "... 8/leet_8_first.s"
