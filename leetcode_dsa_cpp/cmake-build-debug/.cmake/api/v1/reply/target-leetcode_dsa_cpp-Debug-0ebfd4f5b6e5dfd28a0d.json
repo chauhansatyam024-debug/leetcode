@@ -223,7 +223,9 @@
 				42,
 				43,
 				45,
-				47
+				47,
+				48,
+				49
 			]
 		}
 	],
@@ -491,6 +493,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "1441/leet_1441.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "877/leet_877_first_fail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3536/leet_first_3536.h",
 			"sourceGroupIndex" : 1
 		}
 	],
