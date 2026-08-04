@@ -226,7 +226,9 @@
 				47,
 				48,
 				49,
-				50
+				50,
+				51,
+				52
 			]
 		}
 	],
@@ -509,6 +511,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "19/leet_19.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3731/leet_3731_first.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3731/leet_3731_second.h",
 			"sourceGroupIndex" : 1
 		}
 	],
