@@ -231,7 +231,10 @@
 				52,
 				53,
 				54,
-				55
+				55,
+				56,
+				57,
+				58
 			]
 		}
 	],
@@ -539,6 +542,21 @@
 		{
 			"backtrace" : 1,
 			"path" : "3345/leet_3345_first.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3945/leet_3945.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3945/leet_3945_second.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "3945/leet_3945_third.h",
 			"sourceGroupIndex" : 1
 		}
 	],
