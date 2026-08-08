@@ -69,4 +69,6 @@ add_executable(leetcode_dsa_cpp
         3345/leet_3345_first.h
         3945/leet_3945.h
         3945/leet_3945_second.h
-        3945/leet_3945_third.h)
+        3945/leet_3945_third.h
+        169/leet_169_second.h
+        169/leet_169_first.h)
