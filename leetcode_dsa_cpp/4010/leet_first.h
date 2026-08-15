@@ -4,7 +4,7 @@
 
 #ifndef LEETCODE_DSA_CPP_LEET_FIRST_H
 #define LEETCODE_DSA_CPP_LEET_FIRST_H
-
+// logic was simple , but got some time waste in d.type conversion issues
 #endif //LEETCODE_DSA_CPP_LEET_FIRST_H
 class Solution {
 public:
