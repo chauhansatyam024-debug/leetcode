@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e52f06-3578-428e-a480-2b5e178f7cb6" name="Changes" comment="" />
+    <list default="true" id="43e52f06-3578-428e-a480-2b5e178f7cb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3622/leet_3622_1st.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3622/leet_3622_2nd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
