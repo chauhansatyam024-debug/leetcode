@@ -12,9 +12,7 @@ public:
         int sum = 0;
         int pro = 1;
         int x = n;
-        int y ;
         while(n!=0){
-            y = (n%10);
             sum+=(n%10);
             pro*=(n%10);
             n /=10;
