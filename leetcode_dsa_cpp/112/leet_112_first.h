@@ -24,7 +24,7 @@ public:
         if(root ->left == nullptr && root->right == nullptr){
             return root->val == targetSum;
         }
-        int remaining = targetSum - root->val;
+        int remaining = targetSum - root->val; 
         return hasPathSum(root->left,remaining) || hasPathSum(root->right,remaining);
     }
 };
