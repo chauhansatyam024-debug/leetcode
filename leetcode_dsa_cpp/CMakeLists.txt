@@ -113,4 +113,6 @@ add_executable(leetcode_dsa_cpp
         543/leet_543_first.h
         543/leet_543_second.h
         3903/leet_3903_first.h
-        3903/leet_3903_second.h)
+        3903/leet_3903_second.h
+        3903/leet_3903_three.h
+)
