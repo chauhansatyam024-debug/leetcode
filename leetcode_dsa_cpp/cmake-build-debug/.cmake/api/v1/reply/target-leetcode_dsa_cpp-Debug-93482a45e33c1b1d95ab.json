@@ -281,7 +281,8 @@
 				103,
 				104,
 				105,
-				106
+				106,
+				107
 			]
 		}
 	],
@@ -843,6 +844,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "2807/leet_2807_first.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "617/leet_617_first.h",
 			"sourceGroupIndex" : 1
 		}
 	],
