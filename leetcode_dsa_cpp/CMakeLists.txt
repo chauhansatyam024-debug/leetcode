@@ -123,4 +123,5 @@ add_executable(leetcode_dsa_cpp
         3870/leet_3870_second.h
         2469/leet_2469_first.h
         2469/leet_2469_second.h
+        2265/leet_2265_first.h
 )
