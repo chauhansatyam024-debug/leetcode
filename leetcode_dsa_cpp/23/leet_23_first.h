@@ -16,6 +16,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// 1 ms & 19.15 mb
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
