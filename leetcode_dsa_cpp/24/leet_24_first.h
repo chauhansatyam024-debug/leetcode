@@ -29,11 +29,11 @@ public:
             ListNode * s = f->next;
 
 
-            f->next = s->next;
-            s->next = f;
-            temp->next = s;
+            f->next = s->next; // direct assign next to second->next
+            s->next = f; // direct assign next  to f
+            temp->next = s; // starting head assigning ,  after 1st iteration it will move , for temp->next
 
-            temp = f;
+            temp = f; // temp = first
         }
 
 

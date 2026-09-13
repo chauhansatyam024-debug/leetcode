@@ -24,10 +24,10 @@ public:
         ListNode * head = nullptr;
 
         for(int i = 0 ; i<lists.size() ; i++){
-            ListNode * curr = lists[i];
+            ListNode * curr = lists[i]; // [[1->2->3],[2->1->4]]
             while(curr){
                 store.push_back(curr->val);
-                curr = curr->next;
+                curr = curr->next;  // like normal temp->next , opertation , were we assign temp = head
             }
 
         }
