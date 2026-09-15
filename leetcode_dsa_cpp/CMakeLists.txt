@@ -128,4 +128,5 @@ add_executable(leetcode_dsa_cpp
         23/leet_23_first.h
         24/leet_24_first.h
         2413/leet_2413_first.h
+        94/leet_94_first.h
 )
