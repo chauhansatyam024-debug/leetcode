@@ -13,7 +13,7 @@ public:
         int left = 0;
         int right = n - 1;
         while(left <= right){
-            int sum = nums[left] + nums[right];
+            int sum = nums[left] + nums[right]; // it works like n^2 tc
             if(right==left){
                 left++;
                 right=n-1;
