@@ -27,13 +27,13 @@ public:
             }else{
                 chk.push(c);
             }
-        }
+        } // till here stack is in reverse
         string temp2 = "";
         while(!chk.empty()){
-            temp2.push_back(chk.top());
+            temp2.push_back(chk.top()); // then here temp2 string is in straight form
             chk.pop();
         }
-        reverse(temp2.begin(),temp2.end());
+        reverse(temp2.begin(),temp2.end());  // if string is in reverse , then reverse it again
         return temp2;
     }
 };
