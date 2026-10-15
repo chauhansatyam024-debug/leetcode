@@ -316,7 +316,8 @@
 				138,
 				139,
 				140,
-				141
+				141,
+				142
 			]
 		}
 	],
@@ -1053,6 +1054,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "1480/leet_1480_first.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "75/leet_75_first.h",
 			"sourceGroupIndex" : 1
 		}
 	],
