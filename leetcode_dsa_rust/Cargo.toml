@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = ["l_*", "l_1"]   # any folder starting with L_ is picked up automatically
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
